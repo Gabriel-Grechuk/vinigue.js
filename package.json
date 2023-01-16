@@ -1,0 +1,15 @@
+{
+  "name": "vinigue.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gabriel-Grechuk/vinigue.js.git",
+  "author": "Gabriel Grechuk <gabrielgrechuk@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "imagemagick": "^0.1.3"
+  }
+}
