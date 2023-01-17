@@ -6,7 +6,8 @@
   "author": "Gabriel Grechuk <gabrielgrechuk@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "cli": "node src/cli/index.js"
   },
   "dependencies": {
     "express": "^4.18.2",
