@@ -4,7 +4,7 @@ Gerador de migúe
 ## Uso
 Basta clonar o repositório, acesar a pasta e instalar os modulos node pelo yarn.
 ```
-  git clone https://github.com/Gabriel-Grechuk/vinigue.js.github
+  git clone https://github.com/Gabriel-Grechuk/vinigue.js.git
   cd vinigue.js
   yarn install
 ```
