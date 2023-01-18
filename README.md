@@ -15,7 +15,7 @@ A versão CLI precisa de dois argumentos `-t` e `-o`
 - `-o`: Imagem gerada acompanhada pela extenção (ex: `.pnj`, `.jpg`, etc).
 Ex:
 ```
-  yanr cli -t 'Não vou na academia hoje porque estava chovendo' -o 'migue.jpg'
+  yarn cli -t 'Não vou na academia hoje porque estava chovendo' -o 'migue.jpg'
 ```
 
 ### Rodando API
